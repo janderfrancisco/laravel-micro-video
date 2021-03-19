@@ -21,5 +21,3 @@ class Category extends Model
     protected $keyType = 'string';
 
 }
-
-
